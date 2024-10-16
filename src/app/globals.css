@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-custom-blue {
+  background-color: #85C1E9;
+}
+.bg-custom-white {
+  background-color: #fff;
+}
+.bg-custom-white-osc {
+  background-color: #e7edf4;
+}
+
+.bg-b-b{
+  background-color: #DBEAFE;
+}
+
+.text-custom-white {
+  color: #fff;
+} 
+
+.text-custom-black {
+  color: #000;
+} 
+
+.text-custom-blue-claro {
+  color: #85C1E9;
+} 
+.bg-a-azcuro{
+  background-color: #c6e0e4;
+}

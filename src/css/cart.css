@@ -1,0 +1,11 @@
+.custom-shadow {
+    box-shadow:
+    -6px 6px 4px -4px rgba(35, 34, 82, 1), /* Sombra inferior derecha */
+    6px 6px 4px -4px rgba(35, 34, 82, 1), /* Sombra inferior izquierda */
+    6px -6px 4px -4px rgba(35, 34, 82, 1), /* Sombra superior derecha */
+    -6px -6px 4px -4px rgba(35, 34, 82, 1); /* Sombra superior izquierda */
+
+    
+    /* color: black; */
+    
+}
